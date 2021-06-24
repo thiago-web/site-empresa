@@ -32,6 +32,7 @@
                         <li class="nav-item"><a class="nav-link" href="#about">Sobre Nós</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Localizações</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Atendimento</a></li>
                     </ul>
                 </div>
             </div>
@@ -39,9 +40,9 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Bem vindo(a) à [Agencia de Imóveis]</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <div class="masthead-subheading">Bem vindo(a) à [Empresa]</div>
+                <div class="masthead-heading text-uppercase">Missão, Valores, Visão</div>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Saber mais</a>
             </div>
         </header>
         <!-- Services-->
